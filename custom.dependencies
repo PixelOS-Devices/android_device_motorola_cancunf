@@ -13,9 +13,11 @@
     "target_path": "vendor/motorola/cancunf-motcamera",
     "revision": "sixteen"
   },
+  {
     "repository": "YAAP/hardware_mediatek",
     "target_path": "hardware/mediatek",
     "revision": "sixteen"
+  },
   {
     "repository": "YAAP/device_mediatek_sepolicy_vndr",
     "target_path": "device/mediatek/sepolicy_vndr",
